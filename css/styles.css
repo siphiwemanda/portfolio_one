@@ -1,0 +1,104 @@
+html{
+  height: 100%
+}
+
+body{
+  background-color: white;
+  font-family: sans-serif;
+  font-weight: lighter;
+  min-height: 100%;
+  color: #727272;
+}
+
+.header {
+  display: flex;
+  background-color:white;
+
+}
+.headerbox {
+  margin: 20px;
+ padding: 20px;
+ font-weight: bold;
+ align-items: right;
+ text-align: right;
+}
+
+.skills{
+   font-weight: bold;
+   text-align: right;
+   font-size: small;
+  }
+
+.lin{
+  float: right;
+  display: inline-block;
+  padding: 1.1px;
+}
+
+ .line{
+   height: 10px;
+ 	border: 0;
+ 	box-shadow: 0 10px 10px -10px #63a6ff inset;
+ }
+
+/* photo */
+ .mainimg {
+ display: flex;
+ background-color: white;
+ align-items: center;
+ }
+
+ .photo{
+  height: auto;
+ width: 100%;
+ box-shadow:  8px 9px 19px 1px rgba(89,89,89,1);
+
+ }
+
+
+
+/* featured work */
+
+.feature{
+  display: flex;
+  text-align: center;
+}
+
+
+
+
+/* flexx box  */
+
+
+.flex-container{
+  display: flex;
+  flex-wrap:wrap;
+  padding: 20px;
+
+}
+.box1{
+  width: 333px;
+  padding: 20px;
+  text-align: center;
+}
+
+.box2{
+  width:333px;
+  padding: 20px;
+  text-align: center;
+}
+
+.box3{
+ width: 333px;
+ padding: 20px;
+ text-align: center;
+}
+
+
+
+/* footer */
+
+.footer{
+ text-align: center;
+ font-size: x-small;
+}
