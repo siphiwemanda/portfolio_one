@@ -16,7 +16,7 @@ body{
 
 }
 .headerbox {
-  margin: 20px;
+ margin: 20px;
  padding: 20px;
  font-weight: bold;
  align-items: right;
@@ -41,7 +41,7 @@ body{
  	box-shadow: 0 10px 10px -10px #63a6ff inset;
  }
 
-/* photo */
+
  .mainimg {
  display: flex;
  background-color: white;
@@ -56,18 +56,9 @@ body{
  }
 
 
-
-/* featured work */
-
 .feature{
-  display: flex;
   text-align: center;
-}
-
-
-
-
-/* flexx box  */
+  }
 
 
 .flex-container{
@@ -93,10 +84,6 @@ body{
  padding: 20px;
  text-align: center;
 }
-
-
-
-/* footer */
 
 .footer{
  text-align: center;
