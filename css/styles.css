@@ -30,7 +30,7 @@ body{
   }
 
 .lin{
-  float: right;
+  float: center;
   display: inline-block;
   padding: 1.1px;
 }
@@ -61,28 +61,50 @@ body{
   }
 
 
-.flex-container{
+.flex-container, html, body{
   display: flex;
   flex-wrap:wrap;
   padding: 0px;
+  height: 100%;
+  width: 100%;
+  margin: 0;
 
 }
+
+
 .box1{
-  width: 333px;
+  width: 400px;
+  padding: 10px;
+  background: #f8fff7;
+
+  }
+
+  .boxtext{
+    color: grey;
+    font-weight: bold;
+    font-size: 2em;
+    text-align: center;
+
+  }
+
+.par{
+  font-weight: thin;
+  font-size: small;
+  text-align: center;
+  letter-spacing: 1;
+  text-align: center;
+  text-align: justify;
   padding: 20px;
-  text-align: center;
-  background: white;
-  line-height: 1.5px;
-  color: grey;
-  font-weight: bold;
-  font-size: 1em;
-  text-align: center;
+
 }
+
+
+
 
 .box2{
-background: tomato;
+background: #63A6FF;
  padding: 5px;
- width: 860px;
+ width: 750px;
  height: 800px;
  margin-top: 0px;
 
