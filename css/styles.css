@@ -64,28 +64,40 @@ body{
 .flex-container{
   display: flex;
   flex-wrap:wrap;
-  padding: 20px;
+  padding: 0px;
 
 }
 .box1{
   width: 333px;
   padding: 20px;
   text-align: center;
-}
-
-.box2{
-  width:333px;
-  padding: 20px;
+  background: white;
+  line-height: 1.5px;
+  color: grey;
+  font-weight: bold;
+  font-size: 1em;
   text-align: center;
 }
 
-.box3{
- width: 333px;
- padding: 20px;
+.box2{
+background: tomato;
+ padding: 5px;
+ width: 860px;
+ height: 800px;
+ margin-top: 0px;
+
+ line-height: 150px;
+ color: white;
+ font-weight: bold;
+ font-size: 3em;
  text-align: center;
 }
+
+
+
 
 .footer{
  text-align: center;
  font-size: x-small;
+ line-height: 1.5px;
 }
