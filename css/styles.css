@@ -62,15 +62,16 @@ background: #63A6FF;
  /*padding: 5px;*/
  width: 60%;
  height: 100%;
- margin-top: 0px;
  display: flex;
  flex-direction: column;
  overflow-y: scroll;
+ overflow: hidden;
 }
 
 .twoa{
   background: #63a6ff;
-  height: 1500%;
+  height: 100%;
+  width: 100%;
   font-weight: bold;
   font-size: 2em;
   text-align: center;
@@ -79,7 +80,7 @@ background: #63A6FF;
 
 .twob{
   background: white;
-  height: 1500%;
+  height: 100%;
   width: 100%;
   font-weight: bold;
   font-size: 2em;
