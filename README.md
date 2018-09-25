@@ -1,10 +1,12 @@
-*<u>**Udacity** **Nanodegree**</u>* 
+*<u>**Udacity** **Nanodegree**</u>*
 
-Front End Web Design 
+https://siphiwemanda.github.io/portfolio_one/ 
+
+Front End Web Design
 
 Project Two
 
-This project you build a simple portfolio site using HTML and CSS styles. 
+This project you build a simple portfolio site using HTML and CSS styles.
 
 The final result had to fit the following criteria.
 
@@ -25,8 +27,8 @@ No `<div>` or `<section>` tags are without a `CSS` class or id.
 
 
 
-Grid based layout using flex box. 
+Grid based layout using flex box.
 
 
 
-Cross platform compatibility. 
+Cross platform compatibility.

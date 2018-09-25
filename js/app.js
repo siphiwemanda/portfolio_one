@@ -1,0 +1,1 @@
+$('boxtext').addClass('animated slideInLeft');
