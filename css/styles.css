@@ -28,6 +28,10 @@ body{
 
 
 .box1{
+  display: flex;
+  flex-flow: column wrap;
+  justify-content: center;
+  align-items: center;
   width: 40%;
   height: 100%;
   padding: 10px;
@@ -39,7 +43,7 @@ body{
     color: grey;
     font-weight: bold;
     font-size: 2em;
-    text-align: center;
+
 }
 
 .par{
@@ -49,7 +53,7 @@ body{
   letter-spacing: 1;
   text-align: center;
   text-align: justify;
-  padding: 20px;
+  padding: 25px;
 
 }
 
