@@ -59,26 +59,73 @@ body{
 
 .box2{
 background: #63A6FF;
- padding: 5px;
+ /*padding: 5px;*/
  width: 60%;
  height: 100%;
  margin-top: 0px;
-
- 
- color: white;
- font-weight: bold;
- font-size: 3em;
- text-align: center;
+ display: flex;
+ flex-direction: column;
  overflow-y: scroll;
 }
 
-.box2.3{
-  background: white;
-  height: 100%;
-  width: 100%;
+.twoa{
+  background: #63a6ff;
+  height: 1500%;
+  font-weight: bold;
+  font-size: 2em;
+  text-align: center;
 
 }
 
+.twob{
+  background: white;
+  height: 1500%;
+  width: 100%;
+  font-weight: bold;
+  font-size: 2em;
+  text-align: center;
+
+}
+
+.twoc{
+  background: green;
+  height: 100%;
+  width: 100%;
+  font-weight: bold;
+  font-size: 2em;
+  text-align: center;
+
+}
+
+.twod{
+  background: yellow;
+  height: 100%;
+  width: 100%;
+  font-weight: bold;
+  font-size: 2em;
+  text-align: center;
+
+}
+
+.twoe{
+  background: white;
+  height: 100%;
+  width: 100%;
+  font-weight: bold;
+  font-size: 2em;
+  text-align: center;
+
+}
+
+.twof{
+  background: white;
+  height: 100%;
+  width: 100%;
+  font-weight: bold;
+  font-size: 2em;
+  text-align: center;
+
+}
 
 
 
@@ -86,4 +133,5 @@ background: #63A6FF;
  text-align: center;
  font-size: x-small;
  line-height: 1.5px;
+
 }
