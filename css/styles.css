@@ -40,7 +40,7 @@ body{
   }
 
   .boxtext{
-    color: grey;
+    color: #7F7979;
     font-weight: bold;
     font-size: 2em;
 
@@ -54,6 +54,8 @@ body{
   text-align: center;
   text-align: justify;
   padding: 25px;
+  color: #7F7979;
+
 
 }
 
