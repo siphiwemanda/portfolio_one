@@ -24,3 +24,30 @@ social[k].classList.add("animated", "slideInLeft")
 
 
 }
+
+
+const model   ={
+
+}
+
+const octupus = {
+  //intiante the whole page
+  //load the flex box but not the text
+  //load the annimation 
+
+}
+
+
+const leftside = {
+
+  //load all the CLasses
+  //loop through all the classes
+  //add the animations to the looped classes
+
+  //add event listners to the social icons
+  //add animation when mouse over
+  //add click when clicked
+  //add url to new page
+
+
+}
