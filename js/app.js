@@ -42,10 +42,9 @@ const leftside = {
   for(k=0;k <social.length; k++) {
   social[k].classList.add("animated", "slideInLeft")
 
-  social.addEventListener('mouseover', function () {
-    
-
-  })
+  social[k].addEventListener('mouseover', function () {
+    social[k].classList.add('mouseover')
+ })
   }
 
 

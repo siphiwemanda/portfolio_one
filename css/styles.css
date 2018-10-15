@@ -16,6 +16,13 @@ body{
   padding: 1.1px;
 }
 
+.mouseover{
+  float: center;
+  display: inline-block;
+  padding: 1.1px;
+  box-shadow:  -8px 0px 5px 0px rgba(184,182,184,1);
+}
+
 .flex-container, html, body{
   display: flex;
   flex-flow: row nowrap;
